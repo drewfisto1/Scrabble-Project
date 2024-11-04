@@ -3,7 +3,7 @@ from values import values
 DICTIONARY_FILE = "dictionary.txt"
 
 def user_tiles():
-    tiles = input("What letters do you have?")
+    tiles = input("What letters do you have? ")
     tiles = tiles.upper()
     tiles_list = []
 
